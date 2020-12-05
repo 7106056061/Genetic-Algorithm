@@ -1,2 +1,2 @@
-# ExploreCPP
-the project using C++
+# Genetic-Algorithm
+This project using C++ to simulate Genetic Algorithm on Knapsack problem.
